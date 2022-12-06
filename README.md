@@ -14,3 +14,7 @@ Graphql implementation in nodejs with mongo as database
 ![All Books](screenshots/all_books.png)
 ![Book with id](screenshots/book_with_id.png)
 
+### Add data
+![Add Author](screenshots/add_author.png)
+![Add Book](screenshots/add_book.png)
+
