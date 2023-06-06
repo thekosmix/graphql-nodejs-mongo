@@ -9,7 +9,9 @@ Graphql implementation in nodejs with mongo as database
 
 ### Webserver
 `git clone https://github.com/thekosmix/graphql-nodejs-mongo`
+
 `cd graphql-nodejs-mongo`
+
 `node app.js`
 
 ### Querying using GraphiQL
